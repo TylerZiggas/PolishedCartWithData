@@ -1,0 +1,4 @@
+1234|Lord of the Flies|7.35|https://cdn2.mhpbooks.com/2011/11/lotf11-320x484.png
+5678|The Great Gatsby|8.74|https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg
+ABCD|To Kill a Mockingbird|7.19|https://m.media-amazon.com/images/I/516IbJ592JL.jpg
+EFGH|George Orwell's 1984|8.60|https://cdn2.penguin.com.au/covers/400/9780141036144.jpg
